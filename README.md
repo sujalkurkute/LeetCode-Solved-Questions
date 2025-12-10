@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

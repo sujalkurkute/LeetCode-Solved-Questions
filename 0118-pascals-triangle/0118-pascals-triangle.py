@@ -8,7 +8,7 @@ class Solution:
                 if col==0 or col==row:
                     current_row.append(1)
                 else:
-                    value=result[row-1][col-1]+result[row+-1][col]
+                    value=result[row-1][col-1]+result[row-1][col]
 
                     current_row.append(value)
 

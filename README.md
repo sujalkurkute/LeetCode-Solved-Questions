@@ -19,6 +19,7 @@
 | [0018-4sum](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0088-merge-sorted-array) |
+| [0392-is-subsequence](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0392-is-subsequence](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -42,6 +44,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |

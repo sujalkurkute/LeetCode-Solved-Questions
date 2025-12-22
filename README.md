@@ -11,6 +11,7 @@
 | [0118-pascals-triangle](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0228-summary-ranges) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -84,5 +86,10 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

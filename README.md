@@ -15,6 +15,7 @@
 | [0217-contains-duplicate](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0018-4sum](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -42,6 +44,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -61,6 +64,7 @@
 | [0035-search-insert-position](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,11 +85,13 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |

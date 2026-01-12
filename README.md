@@ -16,6 +16,7 @@
 | [0219-contains-duplicate-ii](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |

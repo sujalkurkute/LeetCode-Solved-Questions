@@ -17,6 +17,7 @@
 | [0228-summary-ranges](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0283-move-zeroes) |
+| [1122-relative-sort-array](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1122-relative-sort-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0088-merge-sorted-array](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
+| [1122-relative-sort-array](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1122-relative-sort-array) |
 ## String
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 | [0217-contains-duplicate](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
+| [1122-relative-sort-array](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1122-relative-sort-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -107,4 +110,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0509-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->

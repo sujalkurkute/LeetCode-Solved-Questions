@@ -21,6 +21,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
 | [1122-relative-sort-array](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1122-relative-sort-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2363-merge-similar-items](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
 ## Two Pointers
 |  |
@@ -33,6 +34,7 @@
 | [0283-move-zeroes](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0392-is-subsequence) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -130,4 +132,8 @@
 |  |
 | ------- |
 | [2363-merge-similar-items](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->

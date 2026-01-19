@@ -9,6 +9,7 @@
 | [0088-merge-sorted-array](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0189-rotate-array) |
@@ -105,6 +106,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

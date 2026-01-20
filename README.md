@@ -7,6 +7,7 @@
 | [0018-4sum](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0118-pascals-triangle) |
@@ -139,6 +140,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -148,4 +150,5 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

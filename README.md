@@ -37,6 +37,7 @@
 | [0283-move-zeroes](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -151,4 +152,8 @@
 | ------- |
 | [0048-rotate-image](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

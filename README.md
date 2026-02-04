@@ -33,6 +33,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0283-move-zeroes) |
@@ -113,6 +114,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
@@ -159,6 +161,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

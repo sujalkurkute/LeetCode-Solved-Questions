@@ -171,4 +171,8 @@
 | [0206-reverse-linked-list](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0876-middle-of-the-linked-list) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->

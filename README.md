@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0118-pascals-triangle) |
@@ -108,6 +109,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -178,4 +180,8 @@
 | [0177-nth-highest-salary](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0177-nth-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0262-trips-and-users) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

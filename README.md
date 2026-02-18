@@ -57,6 +57,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0392-is-subsequence) |
 ## String Matching
@@ -74,6 +75,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0392-is-subsequence) |
@@ -185,6 +187,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

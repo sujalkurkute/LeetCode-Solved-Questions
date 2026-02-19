@@ -190,4 +190,12 @@
 | [0022-generate-parentheses](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0078-subsets) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

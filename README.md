@@ -105,6 +105,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -207,6 +209,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |

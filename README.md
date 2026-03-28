@@ -81,6 +81,7 @@
 | [0022-generate-parentheses](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0118-pascals-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -106,6 +107,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -210,6 +213,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |

@@ -25,6 +25,7 @@
 | [0283-move-zeroes](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
+| [1004-max-consecutive-ones-iii](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1122-relative-sort-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2363-merge-similar-items](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
@@ -98,6 +99,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [1004-max-consecutive-ones-iii](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -147,10 +149,12 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 ## Recursion
 |  |
 | ------- |

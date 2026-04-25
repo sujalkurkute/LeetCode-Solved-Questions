@@ -28,6 +28,7 @@
 | [0904-fruit-into-baskets](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1122-relative-sort-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2363-merge-similar-items](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
 ## Two Pointers
@@ -153,11 +154,13 @@
 | [0219-contains-duplicate-ii](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Recursion
 |  |
 | ------- |

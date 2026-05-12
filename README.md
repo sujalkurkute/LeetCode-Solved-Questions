@@ -30,6 +30,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1122-relative-sort-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2363-merge-similar-items](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
 ## Two Pointers
@@ -61,6 +62,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [1122-relative-sort-array](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1122-relative-sort-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2363-merge-similar-items](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
 ## String
 |  |
@@ -240,4 +242,5 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 <!---LeetCode Topics End-->

@@ -212,6 +212,7 @@
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0177-nth-highest-salary) |
+| [0180-consecutive-numbers](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0262-trips-and-users) |
 ## Backtracking

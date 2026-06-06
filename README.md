@@ -34,6 +34,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2363-merge-similar-items](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
+| [2574-left-and-right-sum-differences](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2574-left-and-right-sum-differences](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2574-left-and-right-sum-differences) |
 ## Recursion
 |  |
 | ------- |

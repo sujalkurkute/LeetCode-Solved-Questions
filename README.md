@@ -33,6 +33,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2363-merge-similar-items](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
 | [2574-left-and-right-sum-differences](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
@@ -54,6 +55,7 @@
 | [0696-count-binary-substrings](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
@@ -190,6 +192,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Union-Find
 |  |
 | ------- |

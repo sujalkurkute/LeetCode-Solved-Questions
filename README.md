@@ -36,6 +36,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2363-merge-similar-items](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
 | [2574-left-and-right-sum-differences](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2574-left-and-right-sum-differences) |
+| [3689-maximum-total-subarray-value-i](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -251,4 +252,5 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [3689-maximum-total-subarray-value-i](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/3689-maximum-total-subarray-value-i) |
 <!---LeetCode Topics End-->

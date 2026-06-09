@@ -28,6 +28,7 @@
 | [0455-assign-cookies](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
+| [0994-rotting-oranges](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1122-relative-sort-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -203,6 +204,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
+| [0994-rotting-oranges](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0994-rotting-oranges) |
 ## Linked List
 |  |
 | ------- |
@@ -247,6 +249,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0994-rotting-oranges](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0994-rotting-oranges) |
 ## Greedy
 |  |
 | ------- |

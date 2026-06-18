@@ -230,6 +230,7 @@
 | [0180-consecutive-numbers](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0262-trips-and-users) |
+| [1757-recyclable-and-low-fat-products](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Backtracking
 |  |
 | ------- |

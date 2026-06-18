@@ -27,6 +27,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
+| [0542-01-matrix](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0994-rotting-oranges) |
@@ -101,6 +102,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 ## Memoization
 |  |
 | ------- |
@@ -205,6 +207,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
+| [0542-01-matrix](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0994-rotting-oranges) |
 ## Linked List
@@ -252,6 +255,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0542-01-matrix](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0994-rotting-oranges) |
 ## Greedy

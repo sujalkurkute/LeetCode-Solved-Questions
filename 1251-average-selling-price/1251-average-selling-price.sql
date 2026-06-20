@@ -1,0 +1,7 @@
+# Write your MySQL query statement below
+SELECT P.product_id,ifnull(ROUND(SUM(P.Price * U.Units) / SUM(U.units),2),0) AS average_price
+FROM Prices P
+LEFT JOIN UnitsSold U
+ON P.product_id = U.product_id
+AND U.purchase_date BETWEEN P.start_date and P.end_date
+GROUP BY P.product_id

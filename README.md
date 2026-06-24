@@ -254,6 +254,7 @@
 | [1211-queries-quality-and-percentage](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1280-students-and-examinations) |
+| [1341-movie-rating](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1661-average-time-of-process-per-machine) |

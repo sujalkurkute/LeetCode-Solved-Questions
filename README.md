@@ -59,6 +59,7 @@
 | [0455-assign-cookies](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0876-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
@@ -82,6 +83,7 @@
 | [0392-is-subsequence](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0696-count-binary-substrings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1768-merge-strings-alternately](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |

@@ -29,6 +29,7 @@
 | [0455-assign-cookies](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
+| [0605-can-place-flowers](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0994-rotting-oranges) |
@@ -323,6 +324,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0605-can-place-flowers) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/3689-maximum-total-subarray-value-i) |
 <!---LeetCode Topics End-->

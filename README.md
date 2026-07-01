@@ -82,6 +82,7 @@
 | [0022-generate-parentheses](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0392-is-subsequence) |
+| [0606-construct-string-from-binary-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0606-construct-string-from-binary-tree) |
 | [0696-count-binary-substrings](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0696-count-binary-substrings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -135,6 +136,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0606-construct-string-from-binary-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0606-construct-string-from-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0606-construct-string-from-binary-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0606-construct-string-from-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -306,6 +309,7 @@
 | [0110-balanced-binary-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0130-surrounded-regions) |
+| [0606-construct-string-from-binary-tree](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0606-construct-string-from-binary-tree) |
 | [0733-flood-fill](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |

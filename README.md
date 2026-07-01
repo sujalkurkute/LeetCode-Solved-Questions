@@ -35,6 +35,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1122-relative-sort-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/2161-partition-array-according-to-given-pivot) |

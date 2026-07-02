@@ -26,6 +26,7 @@
 | [0238-product-of-array-except-self](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
@@ -329,6 +330,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/0605-can-place-flowers) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sujalkurkute/LeetCode-Solved-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
